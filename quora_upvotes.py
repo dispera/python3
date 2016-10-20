@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/bin/python3
 # This is for quora upvotes coding challenge: https://www.quora.com/about/challenges
 
 # I read the input below to store N, K, and an array with integers for the upvote counts
