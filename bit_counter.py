@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 bits = int(input("Bit Counter - Enter number of bits: ").strip())
 total = 0
