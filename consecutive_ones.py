@@ -11,7 +11,7 @@ bin_string = str(bin(n))
 
 for d in range(2,len(bin_string)):
     if bin_string[d] == '1':
-        if is_consecutive == 1: 
+        if is_consecutive == 1:
             consecutive_ones += 1
         else: consecutive_ones = 1
         is_consecutive = 1
